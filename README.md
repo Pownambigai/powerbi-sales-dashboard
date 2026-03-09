@@ -1,20 +1,27 @@
-# Superstore Sales Dashboard
+# Superstore Sales Data Analytics & Dashboard
 
-This project analyzes sales data using Power BI.
+This project performs sales data analysis using Python and builds an interactive dashboard using Power BI.
 
 ## Tools Used
-- Power BI
 - Python
 - Pandas
+- Power BI
 
-## Dashboard Insights
-- Sales trend by year
-- Sales by category
-- Sales by region
-- Total sales KPI
-- Interactive filters
+## Data Analytics Tasks
+- Data cleaning
+- Sales analysis
+- Customer insights
+- Regional performance analysis
 
-## Dataset
-Superstore sales dataset used for analysis.
+## Dashboard Features
+- Sales trend visualization
+- Category performance comparison
+- Regional sales distribution
+- Interactive filtering
+
+## Total Sales Insight
+Total Sales: 2.26M
 
 ## Dashboard Preview
+<img width="1245" height="614" alt="Screenshot 2026-03-09 120015" src="https://github.com/user-attachments/assets/62bf56fb-c44d-4e76-b797-fe1c9dd0fd6a" />
+
